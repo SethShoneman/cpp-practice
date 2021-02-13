@@ -1,5 +1,5 @@
 # Overview
-These projects are some examples of what ive created when learning the basics of C++. Obviously, these aren't the full extent of my experience. Instead, I just wanted to provide some evidence that I am at least competent.
+These projects are some examples of what I've created when learning the basics of C++. Obviously, these aren't the full extent of my experience. Instead, I just wanted to provide some evidence that I am at least competent.
 
 ## Files
 ### autoFormatting.cpp
